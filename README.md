@@ -1,6 +1,6 @@
 # kRicha Apps static website
 
-A small, framework-free website for Oleksii’s independent iOS apps. It contains the kRicha Apps developer hub plus app-specific support and privacy pages for Vault Docs.
+A small, framework-free website for kRicha’s independent iOS apps. It contains the kRicha Apps developer hub plus app-specific support and privacy pages for Vault Docs.
 
 The site uses plain HTML and CSS only. It has no package manager, build step, external fonts, scripts, trackers, cookies, forms, or runtime dependencies.
 
