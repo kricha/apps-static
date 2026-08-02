@@ -1,6 +1,6 @@
 # kRicha Apps static website
 
-A small, framework-free website for kRicha’s independent iOS apps. It contains the kRicha Apps developer hub plus app-specific support and privacy pages for Vault Docs.
+A small, framework-free website for kRicha’s independent iOS apps. It contains the kRicha Apps developer hub plus app-specific support and privacy pages for Vault Docs and Soon.
 
 The site uses plain HTML and CSS only. It has no package manager, build step, external fonts, scripts, trackers, cookies, forms, or runtime dependencies.
 
@@ -16,6 +16,11 @@ public/
     styles.css
     vault-docs-icon.png  (optional; see below)
   vault-docs/
+    support/
+      index.html
+    privacy/
+      index.html
+  soon/
     support/
       index.html
     privacy/

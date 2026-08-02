@@ -207,6 +207,8 @@ a:hover { color: var(--accent-soft); }
   pointer-events: none;
 }
 
+.app-card + .app-card { margin-top: 1.5rem; }
+
 .app-identity,
 .app-description { position: relative; z-index: 1; }
 
@@ -228,6 +230,7 @@ a:hover { color: var(--accent-soft); }
 
 .app-icon { width: 100px; height: 100px; border-radius: 24px; }
 .mini-app-icon { width: 34px; height: 34px; border-radius: 9px; }
+.app-icon-image { object-fit: cover; }
 
 .document-glyph {
   position: relative;
